@@ -68,7 +68,7 @@ cv2.waitKey(0)
 
 <br>
 
-![(obito.jpg)]
+![](obito.jpg)
 
 <br>
 
