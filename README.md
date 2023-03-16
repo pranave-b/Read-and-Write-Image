@@ -23,18 +23,20 @@ End the program and close the output image windows.
 ### Register Number: 
 i) #To Read,display the image
 ```
-  
+image=cv2.imread("pain.jpg",1)
+cv2_imshow(image)  
 
 ```
 ii) #To write the image
 ```
-
+image = cv2.imread("pain.jpg",-1)
+cv2.imwrite("pain.jpg",image)
 
 
 ```
 iii) #Find the shape of the Image
 ```python3
-
+print(image.shape)
 
 
 ```
@@ -42,12 +44,20 @@ iv) #To access rows and columns
 
 ```python3
 
-
+for i in range(150):
+    for j in range(image.shape[1]):
+        image[i][j] = [random.randint(0,255),random.randint(0,255),random.randint(0,255)]
+cv2_imshow(image)
+cv2.waitKey(0)
 
 ```
 v) #To cut and paste portion of image
 ```python3
-
+image= cv2.imread('bike.jpg',-1)
+new = image[200:450,200:450]
+image[150:400,150:400] = new
+cv2_imshow(image)
+cv2.waitKey(0)
 
 
 ```
