@@ -67,24 +67,38 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
+
+![](obito.jpg)
+
 <br>
 
 ### ii)Write the image
 
 <br>
+
+![](Img_Write.png)
+
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+
+![](img_shape.png)
+
 <br>
 
 ### iv)Access rows and columns
 <br>
+
+![](noise_obito.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
+
+![](sq_obito.png)
+
 <br>
 
 ## Result:
