@@ -97,7 +97,7 @@ cv2.waitKey(0)
 ### v)Cut and paste portion of image
 <br>
 
-![](sq_obito.png)
+![](messi.png)
 
 <br>
 
