@@ -68,7 +68,7 @@ cv2.waitKey(0)
 
 <br>
 
-![](obito.jpg)
+![](1.png)
 
 <br>
 
@@ -76,7 +76,7 @@ cv2.waitKey(0)
 
 <br>
 
-![](Img_Write.png)
+![](3.jpg)
 
 <br>
 
@@ -84,20 +84,20 @@ cv2.waitKey(0)
 
 <br>
 
-![](img_shape.png)
+![](2.jpg)
 
 <br>
 
 ### iv)Access rows and columns
 <br>
 
-![](noise_obito.png)
+![](4.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
 
-![](messi.png)
+![](5.png)
 
 <br>
 
